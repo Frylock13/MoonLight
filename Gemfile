@@ -12,7 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise', git: 'https://github.com/plataformatec/devise'
 gem 'acts_as_tree'
 gem 'haml-rails'
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'bootswatch-rails'
 gem 'awesome_print'
 gem 'carrierwave', '~> 1.0'
